@@ -30,8 +30,8 @@ Languages
 - I am also looking for work, so hire me - you will not regret it :)
 - 📫 How to reach me: Email: jechelclaudiumihai@gmail.com | Instagram: claomike | Twitter: Claudetinio
 
-Projects
-
+Repositories:
+- Resume - check my resume :)
 <!---
 ClaoMike/ClaoMike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
