@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaoMike, a second year computer science student at The University of Manchester. I am looking for work!
 
-Education:
+Education ####################################
 - The University of Manchester
   - BSc. (Hons) Computer Science
   - First Year Result: 72%
@@ -10,6 +10,8 @@ Education:
   - Romanian Baccalaureate Exam: Overall Score - 9.78, Mathematics - 9.85, Physics - 10, Romanian Language and Literature - 9.50
   
 - 👀 I’m interested in web and game development.
+
+Skills ####################################
 
 Programming Languages
 - Good knowledge of Java, Python
@@ -25,12 +27,13 @@ Languages
   - Overall score: 182 (Level C1)
 - German - beginner
 
+Contact ####################################
 - 💞️ I’m looking to collaborate on anything. You have a project and need +1 programmer to help you, I am in. :)
 
 - I am also looking for work, so hire me - you will not regret it :)
 - 📫 How to reach me: Email: jechelclaudiumihai@gmail.com | Instagram: claomike | Twitter: Claudetinio
 
-Repositories:
+Repositories ####################################
 - Resume - check my resume :)
 - ClaoMike.github.io - my website portfolio, also on: https://clao.dev/
 - StartHack-2021 - application developed during StartHack 2021 Hackathon
