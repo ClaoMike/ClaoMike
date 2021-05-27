@@ -37,7 +37,7 @@ Repositories ####################################
 - Resume - check my resume :)
 - ClaoMike.github.io - my website portfolio, also on: https://clao.dev/
 - StartHack-2021 - application developed during StartHack 2021 Hackathon
-- pc.github.io - a web page which uses THREE.js to draw a hearth 3>
+- pc.github.io - a web page which uses THREE.js to draw a hearth 3>, also on: https://clao.dev/pc.github.io/
 - SimpleTweetsParser - a simple Twitter parser
 - HTML-and-CSS-Tutorial-for-2021---COMPLETE-Crash-Course - completed a crash course on HTML and CSS, designed by Design Course: https://www.youtube.com/watch?v=D-h8L5hgW-w
 <!---
